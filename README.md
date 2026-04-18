@@ -23,7 +23,7 @@ school:     UC San Diego — B.S. Computer Engineering
 award:      Jacobs Scholar (full-tuition merit, ~10 selected from 1,500+)
 gpa:        4.0 / 4.0
 roles:
-  - Backend Engineer @ UFC / Stream Enforcement LLC
+  - Backend Engineer @ UFC / Stream Enforcement
   - Undergraduate Researcher @ Existential Robotics Lab
   - Software Developer @ Qualcomm Institute
   - Backend Engineering Intern @ Automate365
