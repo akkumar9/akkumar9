@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://aryankumarucsd.vercel.app"><img src="https://img.shields.io/badge/Portfolio-aryankumarucsd.vercel.app-6E57F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/aryan-kumar"><img src="https://img.shields.io/badge/LinkedIn-aryan--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aryan-kumar-85b444265/"><img src="https://img.shields.io/badge/LinkedIn-aryan--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ark009@ucsd.edu"><img src="https://img.shields.io/badge/Email-ark009@ucsd.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
