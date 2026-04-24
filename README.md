@@ -23,11 +23,39 @@ school:     UC San Diego — B.S. Computer Engineering
 award:      Jacobs Scholar (full-tuition merit, ~10 selected from 1,500+)
 gpa:        3.9 / 4.0
 roles:
-  - Backend Engineer @ Disney · Netflix · UFC · Amazon · ESPN
+  - Backend Engineer — Anti-Piracy Detection (Disney, Netflix, UFC, Amazon, ESPN)
   - Undergraduate Researcher @ Existential Robotics Lab
   - Software Developer @ Qualcomm Institute
   - Backend Engineering Intern @ Automate365
 interests:  [distributed systems, robotics, LLM tooling, embedded systems]
+```
+
+---
+
+## 🔭 What I'm Working On
+
+- Building distributed piracy detection infrastructure processing 500K+ domains across major media and sports rights holders
+- 3D mapping pipeline with LiDAR + RGB-D fusion for GPS-denied environments at the Existential Robotics Lab
+- LLM-powered CRM automation tooling at Automate365
+
+---
+
+## 📚 Currently Learning
+
+- Computer architecture and CPU design (RISC-V, pipelining, cache hierarchies)
+- Electromagnetic theory and hardware-level systems
+- Kubernetes and container orchestration for distributed workloads
+
+---
+
+## 💼 Open To
+
+```yaml
+status:       Actively looking — Summer 2026 & beyond
+roles:        [Backend Engineering, Distributed Systems, ML Infrastructure]
+ideal:        High-ownership roles at companies building real infrastructure
+not looking:  Pure frontend, non-technical roles
+contact:      ark009@ucsd.edu
 ```
 
 ---
@@ -67,21 +95,6 @@ interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 | [**SynergyPlus**](https://github.com/akkumar9) | Gradebook platform adopted by 13,000+ students districtwide, 50K+ monthly requests | React, Node.js, PostgreSQL, Redis |
 | [**RISC-V Emulator**](https://github.com/akkumar9/RISCV-Emulator) | JIT compiler targeting ARM64, 10–100× speedup over pure interpretation | C++ |
 | [**EasyBrowser**](https://github.com/akkumar9) | GPT-4 Chrome extension for real-time webpage analysis, <2s response latency | JS, Chrome Extension API |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=akkumar9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkumar9&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akkumar9&theme=tokyonight&hide_border=true" /></a>
-
-</div>
 
 ---
 
