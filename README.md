@@ -1,16 +1,12 @@
 <div align="center">
-
 <!-- Typing SVG header -->
 <a href="https://aryankumarucsd.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aryan+Kumar+%F0%9F%91%8B;Backend+Engineer+%7C+CS+Researcher;UC+San+Diego+%E2%80%94+Jacobs+Scholar;Building+things+that+scale" alt="Typing SVG" />
 </a>
-
 <br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-aryankumarucsd.vercel.app-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](https://aryankumarucsd.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kumar)
 [![Email](https://img.shields.io/badge/Email-ark009@ucsd.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ark009@ucsd.edu)
-
 </div>
 
 ---
@@ -21,9 +17,9 @@
 name:       Aryan Kumar
 school:     UC San Diego — B.S. Computer Engineering
 award:      Jacobs Scholar (full-tuition merit, ~10 selected from 1,500+)
-gpa:        4.0 / 4.0
+gpa:        3.9 / 4.0
 roles:
-  - Backend Engineer @ UFC / Stream Enforcement
+  - Backend Engineer @ Disney · Netflix · UFC · Amazon · ESPN
   - Undergraduate Researcher @ Existential Robotics Lab
   - Software Developer @ Qualcomm Institute
   - Backend Engineering Intern @ Automate365
@@ -73,10 +69,8 @@ interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=akkumar9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkumar9&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
 </div>
 
 <div align="center">
@@ -86,7 +80,6 @@ interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 </div>
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akkumar9&color=6E57F7&style=flat-square&label=Profile+Views" />
 </div>
