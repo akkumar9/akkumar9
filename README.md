@@ -25,7 +25,7 @@ gpa:        3.9 / 4.0
 roles:
   - Backend Engineer — Anti-Piracy Detection (Paramount & UFC)
   - Undergraduate Researcher @ Existential Robotics Lab
-  - Software Developer @ Qualcomm Institute
+  - Software Developer @ Qualcomm x EIEC
   - Backend Engineering Intern @ Automate365
 interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 ```
