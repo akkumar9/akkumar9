@@ -36,7 +36,7 @@ interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 
 - Building distributed piracy detection infrastructure processing 500K+ domains across major media and sports rights holders
 - 3D mapping pipeline with LiDAR + RGB-D fusion for GPS-denied environments at the Existential Robotics Lab
-- LLM-powered CRM automation tooling at Automate365
+- Platform tailored for Veterans trying to get back in the job market
 
 ---
 
