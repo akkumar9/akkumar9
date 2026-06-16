@@ -23,7 +23,7 @@ school:     UC San Diego — B.S. Computer Engineering
 award:      Jacobs Scholar (full-tuition merit, ~10 selected from 1,500+)
 gpa:        3.9 / 4.0
 roles:
-  - Backend Engineer — Anti-Piracy Detection (Disney, Netflix, UFC, Amazon, ESPN)
+  - Backend Engineer — Anti-Piracy Detection (Paramount & UFC)
   - Undergraduate Researcher @ Existential Robotics Lab
   - Software Developer @ Qualcomm Institute
   - Backend Engineering Intern @ Automate365
