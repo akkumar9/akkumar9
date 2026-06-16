@@ -20,7 +20,7 @@
 ```yaml
 name:       Aryan Kumar
 school:     UC San Diego — B.S. Computer Engineering
-award:      Jacobs Scholar (full-tuition merit, ~10 selected from 1,500+)
+award:      Jacobs Scholar (full-ride merit, ~10 selected from 1,500+)
 gpa:        3.9 / 4.0
 roles:
   - Backend Engineer — Anti-Piracy Detection (Paramount & UFC)
