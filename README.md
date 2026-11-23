@@ -23,10 +23,11 @@ school:     UC San Diego — B.S. Computer Engineering
 award:      Jacobs Scholar (full-ride merit, ~10 selected from 1,500+)
 gpa:        3.9 / 4.0
 roles:
-  - Backend Engineer — Anti-Piracy Detection (Paramount & UFC)
-  - Undergraduate Researcher @ Existential Robotics Lab
-  - Software Developer @ Qualcomm x EIEC
-  - Backend Engineering Intern @ Automate365
+  - Incoming Software Engineering Intern — Capital One, Summer 2027 (Technology Internship Program, Richmond, VA)
+  - Backend Engineer — Anti-Piracy Detection (Paramount & UFC), Apr–Sep 2026
+  - Undergraduate Researcher @ Existential Robotics Lab, Jan–Mar 2026
+  - Software Developer @ Qualcomm x EIEC, Oct 2025–Jun 2026
+  - Backend Engineering Intern @ Automate365, Dec 2025–May 2026
 interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 ```
 
@@ -34,8 +35,9 @@ interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 
 ## 🔭 What I'm Working On
 
-- Building distributed piracy detection infrastructure processing 500K+ domains across major media and sports rights holders
-- 3D mapping pipeline with LiDAR + RGB-D fusion for GPS-denied environments at the Existential Robotics Lab
+- Building Shiftproof, a store checklist app for small restaurant chains
+- Anti-piracy URL ranking and Telegram scraper monitoring 44+ piracy channels
+- Robotics research at the Existential Robotics Lab, ROS2 and A* pathfinding for GPS-denied navigation
 - Platform tailored for Veterans trying to get back in the job market
 
 ---
@@ -51,7 +53,7 @@ interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 ## 💼 Open To
 
 ```yaml
-status:       Actively looking — Summer 2026 & beyond
+status:       Incoming at Capital One — Summer 2027 (Technology Internship Program, Richmond, VA)
 roles:        [Backend Engineering, Distributed Systems, ML Infrastructure]
 ideal:        High-ownership roles at companies building real infrastructure
 not looking:  Pure frontend, non-technical roles
@@ -92,9 +94,9 @@ contact:      ark009@ucsd.edu
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**CourseSniper**](https://github.com/akkumar9/Course-Sniper) | Polls 1,100+ UCSD courses, emails alerts within 2 min of seat openings — 99.9% uptime | Python, Flask, React |
-| [**SynergyPlus**](https://github.com/akkumar9) | Gradebook platform adopted by 13,000+ students districtwide, 50K+ monthly requests | React, Node.js, PostgreSQL, Redis |
+| **SynergyPlus** | Gradebook platform adopted by 13,000+ students districtwide, 50K+ monthly requests | React, Node.js, PostgreSQL, Redis |
 | [**RISC-V Emulator**](https://github.com/akkumar9/RISCV-Emulator) | JIT compiler targeting ARM64, 10–100× speedup over pure interpretation | C++ |
-| [**EasyBrowser**](https://github.com/akkumar9) | GPT-4 Chrome extension for real-time webpage analysis, <2s response latency | JS, Chrome Extension API |
+| [**EasyBrowser**](https://github.com/akkumar9/easybrowser) | GPT-4 Chrome extension for real-time webpage analysis, <2s response latency | JS, Chrome Extension API |
 
 ---
 
