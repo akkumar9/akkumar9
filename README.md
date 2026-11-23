@@ -35,7 +35,6 @@ interests:  [distributed systems, robotics, LLM tooling, embedded systems]
 
 ## 🔭 What I'm Working On
 
-- Building Shiftproof, a store checklist app for small restaurant chains
 - Anti-piracy URL ranking and Telegram scraper monitoring 44+ piracy channels
 - Robotics research at the Existential Robotics Lab, ROS2 and A* pathfinding for GPS-denied navigation
 - Platform tailored for Veterans trying to get back in the job market
